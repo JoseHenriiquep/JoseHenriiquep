@@ -27,6 +27,6 @@ FullStack Developer 💻
 
 
 ## 🔗 Contact Me
-- <a link="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJlHmbBngQNHnJnMmNCznRZvdHbLHvHJFHlPvtClCVplJfZSVnFRMpPcBNdHCfhsTFVJvxV">Email</a>
-- <a link="https://www.linkedin.com/in/josehenriiquep/">LinkedIn</a>
-- <a link="https://www.instagram.com/josehenriiqueep/">Instagram</a>
+- <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJlHmbBngQNHnJnMmNCznRZvdHbLHvHJFHlPvtClCVplJfZSVnFRMpPcBNdHCfhsTFVJvxV">Email</a>
+- <a href="https://www.linkedin.com/in/josehenriiquep/">LinkedIn</a>
+- <a href="https://www.instagram.com/josehenriiqueep/">Instagram</a>
